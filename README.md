@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BerkeAras&show_icons=true&count_private=true&theme=algolia"></img>
 <br>
 <br>
-Welcome to my GitHub! I'm Berke, 16 years old, and a Webdeveloper, Appdeveloper and UI/UX Designer. Learn more about me at [www.berkearas.de](https://berkearas.de/?utm_source=github&utm_medium=repository&utm_campaign=repository)
+Welcome to my GitHub! I'm Berke, 17 years old, and a Webdeveloper, Appdeveloper and UI/UX Designer. Learn more about me at [www.berkearas.de](https://berkearas.de/?utm_source=github&utm_medium=repository&utm_campaign=repository)
 
 ### ✔️ I'm currently learning
 - Psychology in UX Design
