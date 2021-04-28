@@ -15,3 +15,4 @@ Welcome to my GitHub! I'm Berke, 17 years old, and a Webdeveloper, Appdeveloper 
 - Instagram: [instagram.com/brk_ars](https://www.instagram.com/brk_ars/)
 - Snapchat: [snapchat.com/add/berkearas20](http://snapchat.com/add/berkearas20)
 - Website: [www.berkearas.de](https://berkearas.de/?utm_source=github&utm_medium=repository&utm_campaign=repository)
+- LinkedIn: [linkedin.com/in/berke-aras/](https://www.linkedin.com/in/berke-aras/)
